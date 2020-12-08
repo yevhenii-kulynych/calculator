@@ -1,0 +1,9 @@
+
+
+.calculator {
+  width: 100%;
+  max-width: 30%;
+  border: 1px solid white;
+  height: 80vh;
+  position: relative;
+}

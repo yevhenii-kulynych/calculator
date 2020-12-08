@@ -1,0 +1,13 @@
+
+
+.calculator__btn {
+  width: 25%;
+  height: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightslategrey;
+  border-radius: 50%;
+  padding: 2rem;
+  cursor: pointer;
+}

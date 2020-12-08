@@ -1,0 +1,13 @@
+
+
+.calculator__head {
+  color: #eee;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+  height: 10vh;
+  border: 1px solid cornflowerblue;
+  font-size: 3rem;
+}
