@@ -1,6 +1,11 @@
 import { combineReducers } from "redux";
 import { value } from "./value";
 
-export const allReducers = combineReducers(
-  value
+const allReducers = combineReducers(
+  {
+    value
+  }
 );
+
+
+export default allReducers;
